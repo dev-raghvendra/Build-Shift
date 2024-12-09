@@ -1,0 +1,19 @@
+{
+  "name": "buildshift",
+  "version": "1.0.0",
+  "description": "A script to build a frontend project and move the output to a backend directory.",
+  "main": "lib/cli.js",
+  "type": "commonjs",
+  "bin": {
+    "buildshift": "./lib/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1"
+  },
+  "author": "Raghvendra Misra",
+  "license": "MIT"
+}
