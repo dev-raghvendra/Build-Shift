@@ -116,4 +116,4 @@ We welcome contributions! If you'd like to contribute to `buildshift`, please fo
 
 `buildshift` was created to simplify and automate the process of integrating frontend builds with backend services, reducing the need for manual steps in the deployment process.
 
-If you have any questions, suggestions, or issues, feel free to open an issue on [GitHub](https://github.com/your-repo/buildshift/issues) or submit a pull request.
+If you have any questions, suggestions, or issues, feel free to open an issue on [GitHub](https://github.com/dev-raghvendramisra/Build-Shift/issues) or submit a pull request.
