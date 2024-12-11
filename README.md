@@ -111,7 +111,6 @@ We welcome contributions! If you'd like to contribute to `buildshift`, please fo
 3. Make your changes and add tests.
 4. Submit a pull request with a clear description of your changes.
 
-For more details, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## About
 
