@@ -1,6 +1,6 @@
 {
   "name": "buildshift",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A script to build a frontend project and move the output to a backend directory.",
   "main": "lib/cli.js",
   "type": "commonjs",
