@@ -18,6 +18,7 @@
 
 ## Installation
 
+
 You can install `buildshift` either globally or locally depending on your needs.
 
 ### Global Installation
