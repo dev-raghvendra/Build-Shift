@@ -16,7 +16,6 @@
 - [Contributing](#contributing)
 - [About](#about)
 
-
 ## Installation
 
 You can install `buildshift` either globally or locally depending on your needs.
